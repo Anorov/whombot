@@ -3,6 +3,8 @@ whombot.py
 
 A simple Twitter bot that scans for recent tweets that use the word "whom". If the tweet is using "whom" incorrectly (where it should really be "who"), it replies to their tweet, correcting them.
 
+You can see it in action here: **[@WhoNotWhom](http://twitter.com/WhoNotWhom)**
+
 Example
 =======
 
